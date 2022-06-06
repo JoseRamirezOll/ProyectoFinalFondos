@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90952915327",
+    "project_id": "fondosfinal",
+    "storage_bucket": "fondosfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90952915327:android:0a0261588496ea977fa24a",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalfondos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90952915327-363tvt6k520r0betnk9g8qli8v03tfet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjBZ65SrTSNGgsW_qyCjjFaEhKjrK_3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90952915327-363tvt6k520r0betnk9g8qli8v03tfet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

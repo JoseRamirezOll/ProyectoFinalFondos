@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fondos De Pantalla- Inicio de Secion</string>
+    <string name="editContra">Contraseña</string>
+    <string name="editCorreo">Email</string>
+    <string name="tituloPantallaHome">Inicio</string>
+    <string name="BotonInicioString">Inicio de secion</string>
+    <string name="botonRegistroString">Registrarse</string>
+    <string name="agregarImagen">Subir imagen</string>
+    <string name="tituloStringValue">Titulo</string>
+    <string name="urlStringValue">URL</string>
+    <string name="subirStringvaule">Subir</string>
+    <string name="correoUusaioSubir">Correo de usuario: %1$s</string>
+    <string name="agregadoMensaje">Agregado</string>
+    <string name="autorString">Autor:  %1$s </string>
+</resources>
